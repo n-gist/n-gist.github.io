@@ -4,6 +4,8 @@ title: "Driven Keys from Maya to MotionBuilder"
 
 # Driven Keys from Maya to MotionBuilder
 
+[![Driven Keys from Maya to MotionBuilder](/images/DrivenKeys_MAYA.gif)](/images/DrivenKeys_MAYA.gif){:target="_blank" rel="noopener"}
+
 Driven Keys is a nice thing that does not work when we transfer scene from MAYA to MotionBuilder. There are solutions on the Internet, but most of them just explain how to build Relation Constraint in MotionBuilder between driver and driven objects manually. That is impossible with a large number of objects, or when changing/tuning connections, in terms of time costs.
 
 Solution is two python scripts. One is for export data from MAYA, second is for import to MotionBuilder.
